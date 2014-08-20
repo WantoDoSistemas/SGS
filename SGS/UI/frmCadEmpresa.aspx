@@ -10,7 +10,7 @@
 
 A {
 	text-decoration: underline;
-	color:FF7E00;
+	color:FFFFFF;
 	font-size: 10; 
 	font-family: arial;
 }
