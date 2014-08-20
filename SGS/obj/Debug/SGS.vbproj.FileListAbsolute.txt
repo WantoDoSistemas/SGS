@@ -1,0 +1,8 @@
+C:\Users\GABRIEL\Documents\Visual Studio 2010\Projects\SGS\SGS\bin\SGS.dll
+C:\Users\GABRIEL\Documents\Visual Studio 2010\Projects\SGS\SGS\bin\SGS.pdb
+C:\Users\GABRIEL\Documents\Visual Studio 2010\Projects\SGS\SGS\bin\SGS.xml
+C:\Users\GABRIEL\Documents\Visual Studio 2010\Projects\SGS\SGS\obj\Debug\SGS.Resources.resources
+C:\Users\GABRIEL\Documents\Visual Studio 2010\Projects\SGS\SGS\obj\Debug\SGS.vbproj.GenerateResource.Cache
+C:\Users\GABRIEL\Documents\Visual Studio 2010\Projects\SGS\SGS\obj\Debug\SGS.dll
+C:\Users\GABRIEL\Documents\Visual Studio 2010\Projects\SGS\SGS\obj\Debug\SGS.xml
+C:\Users\GABRIEL\Documents\Visual Studio 2010\Projects\SGS\SGS\obj\Debug\SGS.pdb
